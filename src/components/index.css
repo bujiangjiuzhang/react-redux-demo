@@ -1,0 +1,13 @@
+.left {
+    width: 49%;
+    height: 200px;
+    margin-right: 1%;
+    background-color: brown;
+}
+
+.right {
+    width: 49%;
+    height: 200px;
+    margin-left: 1%;
+    background-color: blueviolet;
+}
